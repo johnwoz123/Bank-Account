@@ -1,0 +1,23 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "Bank account project",
+  "main": "index.js",
+  "dependencies": {
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnwoz123/Bank-Account.git"
+  },
+  "author": "john wozniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwoz123/Bank-Account/issues"
+  },
+  "homepage": "https://github.com/johnwoz123/Bank-Account"
+}
